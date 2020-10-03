@@ -1,2 +1,2 @@
 # Museum-of-Candy
- A responsive website using Bootstrap 4
+ A responsive webpage using Bootstrap 4
